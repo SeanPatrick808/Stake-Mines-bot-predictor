@@ -7,7 +7,12 @@ Review the automatically calculated risk level
 Powered by intelligent algorithms and pattern recognition
 Download the Latest Version
 🎥 Demo Video
-https://www.youtube.com/watch?v=Xh9sRVg5_4I
+<a href="https://www.youtube.com/watch?v=Xh9sRVg5_4I" target="_blank">
+  <img src="https://img.youtube.com/vi/Xh9sRVg5_4I/maxresdefault.jpg" 
+       alt="Ver video en YouTube" 
+       width="560" height="315">
+</a>
+
 
 
 
